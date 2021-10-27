@@ -33,8 +33,9 @@ gast==0.4.0
 gitdb==4.0.7
 GitPython==3.1.24
 google-auth==1.35.0
-pystan
-fbprophet
+pystan==2.17.1.0
+fbprophet==0.6
+prophet
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.41.0
@@ -154,6 +155,4 @@ widgetsnbextension==3.5.1
 wrapt==1.12.1
 yarg==0.1.9
 yfinance==0.1.64
-pystan==2.17.1.0
-fbprophet==0.6
-prophet
+
