@@ -35,7 +35,6 @@ GitPython==3.1.24
 google-auth==1.35.0
 pystan
 fbprophet
-prophet
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.41.0
