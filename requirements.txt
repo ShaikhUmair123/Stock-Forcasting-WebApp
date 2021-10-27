@@ -154,3 +154,6 @@ widgetsnbextension==3.5.1
 wrapt==1.12.1
 yarg==0.1.9
 yfinance==0.1.64
+pystan==2.17.1.0
+fbprophet==0.6
+prophet
